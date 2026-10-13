@@ -1,0 +1,9 @@
+{
+  "source_tree": "f7757d383a24d29e80d0f06adb1c626d5ea9cec1",
+  "base": "159b84f54c74e9e82fb3109b758ae7dd6f4e3ab0",
+  "gate": "cargo xtask ci",
+  "platform": "Windows",
+  "result": "Commit creation/publication is conditional on all six gates passing",
+  "test_log": "reviewed-submission-ci.log",
+  "images": "Original WordCraft; English labels in both directions"
+}

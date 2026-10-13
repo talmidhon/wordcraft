@@ -1,0 +1,332 @@
+[
+  {
+    "surface": "backstage-export",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "backstage-home",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": [
+      646,
+      86,
+      850,
+      137
+    ],
+    "identical": false,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "backstage-info",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "backstage-new",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "backstage-open",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "backstage-print",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "backstage-saveAs",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "dialog-paragraph",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "options-accessibility",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "options-advanced",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "options-agents",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "options-display",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "options-general",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "options-language",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "options-proofing",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "options-save",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "tab-Design",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "tab-Developer",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  },
+  {
+    "surface": "tab-Draw",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": [
+      824,
+      592,
+      827,
+      678
+    ],
+    "identical": false,
+    "caret_blink_only": true
+  },
+  {
+    "surface": "tab-Help",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": [
+      824,
+      592,
+      827,
+      678
+    ],
+    "identical": false,
+    "caret_blink_only": true
+  },
+  {
+    "surface": "tab-Home",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": [
+      824,
+      592,
+      827,
+      678
+    ],
+    "identical": false,
+    "caret_blink_only": true
+  },
+  {
+    "surface": "tab-Insert",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": [
+      824,
+      592,
+      827,
+      678
+    ],
+    "identical": false,
+    "caret_blink_only": true
+  },
+  {
+    "surface": "tab-Layout",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": [
+      824,
+      592,
+      827,
+      678
+    ],
+    "identical": false,
+    "caret_blink_only": true
+  },
+  {
+    "surface": "tab-Mailings",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": [
+      824,
+      592,
+      827,
+      678
+    ],
+    "identical": false,
+    "caret_blink_only": true
+  },
+  {
+    "surface": "tab-References",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": [
+      824,
+      592,
+      827,
+      678
+    ],
+    "identical": false,
+    "caret_blink_only": true
+  },
+  {
+    "surface": "tab-Review",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": [
+      824,
+      592,
+      827,
+      678
+    ],
+    "identical": false,
+    "caret_blink_only": true
+  },
+  {
+    "surface": "tab-View",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": [
+      824,
+      592,
+      827,
+      678
+    ],
+    "identical": false,
+    "caret_blink_only": true
+  },
+  {
+    "surface": "tab-Zotero",
+    "size": [
+      2880,
+      1800
+    ],
+    "different_bbox": null,
+    "identical": true,
+    "caret_blink_only": false
+  }
+]
