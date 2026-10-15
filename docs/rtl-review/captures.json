@@ -1,0 +1,140 @@
+{
+  "source_commit": "76b01f623326dcd485d76d13822ef06b3e6a0181",
+  "source_tree": "336d1f5d384413437664ab3c5847f32294dc17c0",
+  "date": "2026-10-15",
+  "backend": "offscreen egui_kittest wgpu on Windows",
+  "files": [
+    {
+      "file": "en-chart-data.png",
+      "sha256": "969b8d42a4d5b3d2cb9d931808f36371165ea7c529b6cbe4ff5c2a0a22ec9fb3",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "en-dialog.png",
+      "sha256": "8c90a111fd7bf04989f98e2f2504df998f6d9da793eb1987a946a2b788c8fef4",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "en-empty-window.png",
+      "sha256": "39fab9a7e4e2817068fa9e2e317179f6effb3d852601c80496cc125ced137e0b",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "en-font.png",
+      "sha256": "61e7e0b2b9ea0f531bb6c6f483e59dbb0f7cc3939603fdf17505fcdc5cfcabe9",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "en-home.png",
+      "sha256": "dc67c308aeb1bc481c02142840208e7e61828dc53faa02f5a6e8c6fc828f9000",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "en-insert.png",
+      "sha256": "60659d4be1b4bad30892526d5ead4ad2434f552438b20f6b3092375fb625edf7",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "en-options.png",
+      "sha256": "9ba68eecd5ca496cdcdc50fadd5883f353896e04a4c5dbf6ae4e060691475d20",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "en-pane.png",
+      "sha256": "fc33aafaa6574c647853d2072586d53629973863c710e81b50d569c476fc6766",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "en-paste-menu.png",
+      "sha256": "b77335d41f65976066537eac70cd3228058c6649ae47b78f585cf874b6bfe6e9",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "en-save.png",
+      "sha256": "25e5e26f0930463b1ab0ef2a7d9363c15a7f0c5b0f0a0e66e609b523817aa31a",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "en-start-screen.png",
+      "sha256": "5c74cc90378b5d82d0e1d803f50676cc21aadc383c71c46aa91d65a638b87e20",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "qaa-rtl-latin-chart-data.png",
+      "sha256": "44f87c38a8ce7776bf77cad749ea0b1282e2a2bf569da2038262ea1d1fac1c47",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "qaa-rtl-latin-dialog.png",
+      "sha256": "2c7d8103457989a4f4dd44d9c081d576adfc2d007551112591309ee0e9992358",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "qaa-rtl-latin-empty-window.png",
+      "sha256": "bf2f873619b5872fbe5a19c60148824f1c286ed35f2c2665851acd7a260e762e",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "qaa-rtl-latin-font.png",
+      "sha256": "096d56ad6a532755abfd0a631c7b7fe27652cf0f694217dc111c860d4a13215d",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "qaa-rtl-latin-home.png",
+      "sha256": "6d702a742c9953a694f8585169e390f6d3657830e61bab1eba1c9ee1889797a2",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "qaa-rtl-latin-insert.png",
+      "sha256": "3a0eba35cebfebce05186296fbc62acd100bfffe7230d539144932b9d1c20cd2",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "qaa-rtl-latin-options.png",
+      "sha256": "85a8bedd7596b78618ed1ab491b47991f79bf8c8d2519f2bd22ab9e535524736",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "qaa-rtl-latin-pane.png",
+      "sha256": "4ddf524d58f563d528c899cdc4d7ff22efe13061b6ad65fb98db0145a8a4cdcd",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "qaa-rtl-latin-paste-menu.png",
+      "sha256": "03cd096a2ea4804d932f4f4f3481e51bd08eb160b5a23fa24fb7402fe0ac1886",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "qaa-rtl-latin-save.png",
+      "sha256": "623da46a446e3937db6d92193e3b50266ee6f96d412d4926972b8c762bd9b202",
+      "width": 1100,
+      "height": 750
+    },
+    {
+      "file": "qaa-rtl-latin-start-screen.png",
+      "sha256": "ef47cb4a66c61740c4b0962139826050161466ef9a7b8adb2822260abeff57b3",
+      "width": 1100,
+      "height": 750
+    }
+  ]
+}
